@@ -82,3 +82,14 @@ h1 {
   fill: #9d5189;
   z-index: 0;
 }
+
+.watermark {
+  position: absolute;
+  bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+.watermark h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15px;
+}
