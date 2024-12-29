@@ -85,7 +85,7 @@ h1 {
 
 .watermark {
   position: absolute;
-  bottom: 8px;
+  bottom: 10px;
   display: flex;
   justify-content: center;
 }
