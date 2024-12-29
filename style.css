@@ -89,7 +89,7 @@ h1 {
   display: flex;
   justify-content: center;
 }
-.watermark h1 {
+.watermark h2 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 15px;
 }
