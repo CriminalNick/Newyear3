@@ -85,11 +85,11 @@ h1 {
 
 .watermark {
   position: absolute;
-  bottom: 7px;
+  bottom: 8px;
   display: flex;
   justify-content: center;
 }
 .watermark h2 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 15px;
+  font-size: 10px;
 }
